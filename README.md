@@ -19,6 +19,13 @@
 - 🌱 Learning how to make things even pinker and fluffier
 - 🤝 Always happy to chat with other trans / furry / cat girl coders!
 
+### 🛠️ my skills & languages
+Here are the languages and tools I like playing with:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,clion,cloudflare,css,express,js,lua,mongodb,nextjs,nodejs,postman,tailwind,visualstudio,vscode,webstorm,windows,linux" />
+  </a>
+
 ### come say hi~ 
 - Discord: [currently none]
 
