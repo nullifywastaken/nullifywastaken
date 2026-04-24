@@ -27,7 +27,7 @@ Here are the languages and tools I like playing with:
   </a>
 
 ### come say hi~ 
-- Discord: [currently none]
+- Email: [nullify_solutions@proton.me](mailto:nullify_solutions@proton.me)
 
 <p align="center">
   <i>"be gay, do pink fluff crimes" 🐾💖</i>
